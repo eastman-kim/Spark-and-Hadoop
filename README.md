@@ -1,4 +1,4 @@
-![certificate](https://github.com/eastman-kim/Spark-and-Hadoop/blob/master/img/Cloudera CCA175 Spark and Hadoop Developer.jpg)
+![certificate](https://github.com/eastman-kim/Spark-and-Hadoop/blob/master/img/cloudera_spark_and_hadoop_developer)
 
 # Environment
 **Google Cloud Platform**
